@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{769F7DAE-399F-4573-95E9-D98F5DF42BF9}|DataRepository\\DataRepository.csproj|c:\\users\\the user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\practicom attendance-server\\datarepository\\assessmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769F7DAE-399F-4573-95E9-D98F5DF42BF9}|DataRepository\\DataRepository.csproj|solutionrelative:datarepository\\assessmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D2430F-DB27-45DE-B775-56AF7CA68A5A}|PracticumAttendance\\PracticomAttendance.csproj|c:\\users\\the user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\practicom attendance-server\\practicumattendance\\controllers\\assessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D2430F-DB27-45DE-B775-56AF7CA68A5A}|PracticumAttendance\\PracticomAttendance.csproj|solutionrelative:practicumattendance\\controllers\\assessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769F7DAE-399F-4573-95E9-D98F5DF42BF9}|DataRepository\\DataRepository.csproj|c:\\users\\the user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\practicom attendance-server\\datarepository\\iassessmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769F7DAE-399F-4573-95E9-D98F5DF42BF9}|DataRepository\\DataRepository.csproj|solutionrelative:datarepository\\iassessmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D2430F-DB27-45DE-B775-56AF7CA68A5A}|PracticumAttendance\\PracticomAttendance.csproj|c:\\users\\the user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\practicom attendance-server\\practicumattendance\\practicomattendance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86D2430F-DB27-45DE-B775-56AF7CA68A5A}|PracticumAttendance\\PracticomAttendance.csproj|solutionrelative:practicumattendance\\practicomattendance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D2430F-DB27-45DE-B775-56AF7CA68A5A}|PracticumAttendance\\PracticomAttendance.csproj|c:\\users\\the user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\practicom attendance-server\\practicumattendance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86D2430F-DB27-45DE-B775-56AF7CA68A5A}|PracticumAttendance\\PracticomAttendance.csproj|solutionrelative:practicumattendance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769F7DAE-399F-4573-95E9-D98F5DF42BF9}|DataRepository\\DataRepository.csproj|c:\\users\\the user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\practicom attendance-server\\datarepository\\practicum_attendancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769F7DAE-399F-4573-95E9-D98F5DF42BF9}|DataRepository\\DataRepository.csproj|solutionrelative:datarepository\\practicum_attendancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A926FB-68A7-4770-B017-001BED26AC3D}|Entities\\Entities.csproj|c:\\users\\the user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\practicom attendance-server\\entities\\attendanceinputmodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A926FB-68A7-4770-B017-001BED26AC3D}|Entities\\Entities.csproj|solutionrelative:entities\\attendanceinputmodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A926FB-68A7-4770-B017-001BED26AC3D}|Entities\\Entities.csproj|c:\\users\\the user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\practicom attendance-server\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A926FB-68A7-4770-B017-001BED26AC3D}|Entities\\Entities.csproj|solutionrelative:entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A926FB-68A7-4770-B017-001BED26AC3D}|Entities\\Entities.csproj|c:\\users\\the user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\practicom attendance-server\\entities\\assessments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A926FB-68A7-4770-B017-001BED26AC3D}|Entities\\Entities.csproj|solutionrelative:entities\\assessments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9804D95-5AD6-4EC0-A82E-6430B9B0009F}|Service\\Service.csproj|c:\\users\\the user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\practicom attendance-server\\service\\assessmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9804D95-5AD6-4EC0-A82E-6430B9B0009F}|Service\\Service.csproj|solutionrelative:service\\assessmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769F7DAE-399F-4573-95E9-D98F5DF42BF9}|DataRepository\\DataRepository.csproj|c:\\users\\the user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\practicom attendance-server\\datarepository\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769F7DAE-399F-4573-95E9-D98F5DF42BF9}|DataRepository\\DataRepository.csproj|solutionrelative:datarepository\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 128,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAssessmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\DataRepository\\IAssessmentRepository.cs",
+              "RelativeDocumentMoniker": "DataRepository\\IAssessmentRepository.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\DataRepository\\IAssessmentRepository.cs",
+              "RelativeToolTip": "DataRepository\\IAssessmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T21:39:02.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\PracticumAttendance\\appsettings.json",
+              "RelativeDocumentMoniker": "PracticumAttendance\\appsettings.json",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\PracticumAttendance\\appsettings.json",
+              "RelativeToolTip": "PracticumAttendance\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T12:31:10.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Practicum_attendanceContext.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\DataRepository\\Practicum_attendanceContext.cs",
+              "RelativeDocumentMoniker": "DataRepository\\Practicum_attendanceContext.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\DataRepository\\Practicum_attendanceContext.cs",
+              "RelativeToolTip": "DataRepository\\Practicum_attendanceContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:30:48.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttendanceInputModelcs.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\Entities\\AttendanceInputModelcs.cs",
+              "RelativeDocumentMoniker": "Entities\\AttendanceInputModelcs.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\Entities\\AttendanceInputModelcs.cs",
+              "RelativeToolTip": "Entities\\AttendanceInputModelcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:54:00.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\Entities\\Attendance.cs",
+              "RelativeDocumentMoniker": "Entities\\Attendance.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\Entities\\Attendance.cs",
+              "RelativeToolTip": "Entities\\Attendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:53:58.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "assessments.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\Entities\\assessments.cs",
+              "RelativeDocumentMoniker": "Entities\\assessments.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\Entities\\assessments.cs",
+              "RelativeToolTip": "Entities\\assessments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:53:57.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssessmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\PracticumAttendance\\Controllers\\AssessmentsController.cs",
+              "RelativeDocumentMoniker": "PracticumAttendance\\Controllers\\AssessmentsController.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\PracticumAttendance\\Controllers\\AssessmentsController.cs",
+              "RelativeToolTip": "PracticumAttendance\\Controllers\\AssessmentsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:54:39.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssessmentService.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\Service\\AssessmentService.cs",
+              "RelativeDocumentMoniker": "Service\\AssessmentService.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\Service\\AssessmentService.cs",
+              "RelativeToolTip": "Service\\AssessmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:54:18.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\DataRepository\\AttendanceRepository.cs",
+              "RelativeDocumentMoniker": "DataRepository\\AttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\DataRepository\\AttendanceRepository.cs",
+              "RelativeToolTip": "DataRepository\\AttendanceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:53:13.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssessmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\DataRepository\\AssessmentRepository.cs",
+              "RelativeDocumentMoniker": "DataRepository\\AssessmentRepository.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\DataRepository\\AssessmentRepository.cs",
+              "RelativeToolTip": "DataRepository\\AssessmentRepository.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowBMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:42:52.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PracticomAttendance.csproj",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\PracticumAttendance\\PracticomAttendance.csproj",
+              "RelativeDocumentMoniker": "PracticumAttendance\\PracticomAttendance.csproj",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\batya\\Practicom Attendance-server\\PracticumAttendance\\PracticomAttendance.csproj",
+              "RelativeToolTip": "PracticumAttendance\\PracticomAttendance.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T10:30:32.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

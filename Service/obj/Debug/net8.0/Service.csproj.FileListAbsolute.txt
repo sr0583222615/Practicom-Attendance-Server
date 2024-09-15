@@ -1,0 +1,170 @@
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Service.dll
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.dll
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Entities.dll
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Entities.pdb
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.dll
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\ref\Service.dll
+J:\handesaim37-2\Practicom Attendance\Service\bin\Debug\net8.0\Service.deps.json
+J:\handesaim37-2\Practicom Attendance\Service\bin\Debug\net8.0\Service.dll
+J:\handesaim37-2\Practicom Attendance\Service\bin\Debug\net8.0\Service.pdb
+J:\handesaim37-2\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.dll
+J:\handesaim37-2\Practicom Attendance\Service\bin\Debug\net8.0\Entities.dll
+J:\handesaim37-2\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.pdb
+J:\handesaim37-2\Practicom Attendance\Service\bin\Debug\net8.0\Entities.pdb
+J:\handesaim37-2\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+J:\handesaim37-2\Practicom Attendance\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+J:\handesaim37-2\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+J:\handesaim37-2\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+J:\handesaim37-2\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+J:\handesaim37-2\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
+J:\handesaim37-2\Practicom Attendance\Service\obj\Debug\net8.0\Service.dll
+J:\handesaim37-2\Practicom Attendance\Service\obj\Debug\net8.0\refint\Service.dll
+J:\handesaim37-2\Practicom Attendance\Service\obj\Debug\net8.0\Service.pdb
+J:\handesaim37-2\Practicom Attendance\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\214388480\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\214388480\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Service.dll
+C:\Users\214388480\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\214388480\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.dll
+C:\Users\214388480\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Entities.dll
+C:\Users\214388480\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\214388480\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Entities.pdb
+C:\Users\214388480\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\214388480\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\214388480\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\214388480\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\214388480\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\214388480\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
+C:\Users\214388480\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.dll
+C:\Users\214388480\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\214388480\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\214388480\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\325924835\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\325924835\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Service.dll
+C:\Users\325924835\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\325924835\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.dll
+C:\Users\325924835\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Entities.dll
+C:\Users\325924835\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\325924835\Desktop\Practicom Attendance\Service\bin\Debug\net8.0\Entities.pdb
+C:\Users\325924835\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\325924835\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\325924835\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\325924835\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\325924835\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\325924835\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
+C:\Users\325924835\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.dll
+C:\Users\325924835\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\325924835\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\325924835\Desktop\Practicom Attendance\Service\obj\Debug\net8.0\ref\Service.dll
+M:\Practicom Attendance\Service\bin\Debug\net8.0\Service.deps.json
+M:\Practicom Attendance\Service\bin\Debug\net8.0\Service.dll
+M:\Practicom Attendance\Service\bin\Debug\net8.0\Service.pdb
+M:\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.dll
+M:\Practicom Attendance\Service\bin\Debug\net8.0\Entities.dll
+M:\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.pdb
+M:\Practicom Attendance\Service\bin\Debug\net8.0\Entities.pdb
+M:\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+M:\Practicom Attendance\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+M:\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+M:\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+M:\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+M:\Practicom Attendance\Service\obj\Debug\net8.0\Service.dll
+M:\Practicom Attendance\Service\obj\Debug\net8.0\refint\Service.dll
+M:\Practicom Attendance\Service\obj\Debug\net8.0\Service.pdb
+M:\Practicom Attendance\Service\obj\Debug\net8.0\ref\Service.dll
+M:\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
+M:\כונן M סמינר\Practicom Attendance\Service\bin\Debug\net8.0\Service.deps.json
+M:\כונן M סמינר\Practicom Attendance\Service\bin\Debug\net8.0\Service.dll
+M:\כונן M סמינר\Practicom Attendance\Service\bin\Debug\net8.0\Service.pdb
+M:\כונן M סמינר\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.dll
+M:\כונן M סמינר\Practicom Attendance\Service\bin\Debug\net8.0\Entities.dll
+M:\כונן M סמינר\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.pdb
+M:\כונן M סמינר\Practicom Attendance\Service\bin\Debug\net8.0\Entities.pdb
+M:\כונן M סמינר\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+M:\כונן M סמינר\Practicom Attendance\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+M:\כונן M סמינר\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+M:\כונן M סמינר\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+M:\כונן M סמינר\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+M:\כונן M סמינר\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+M:\כונן M סמינר\Practicom Attendance\Service\obj\Debug\net8.0\Service.dll
+M:\כונן M סמינר\Practicom Attendance\Service\obj\Debug\net8.0\refint\Service.dll
+M:\כונן M סמינר\Practicom Attendance\Service\obj\Debug\net8.0\Service.pdb
+M:\כונן M סמינר\Practicom Attendance\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\bin\Debug\net8.0\Service.dll
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.dll
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\bin\Debug\net8.0\Entities.dll
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\bin\Debug\net8.0\Entities.pdb
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\obj\Debug\net8.0\Service.dll
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\bin\Debug\net8.0\Service.dll
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.dll
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\bin\Debug\net8.0\Entities.dll
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\bin\Debug\net8.0\Entities.pdb
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\obj\Debug\net8.0\Service.dll
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\Service.dll
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\DataRepository.dll
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\Entities.dll
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\Entities.pdb
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.dll
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\Service.dll
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\DataRepository.dll
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\Entities.dll
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\bin\Debug\net8.0\Entities.pdb
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.dll
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\Service\obj\Debug\net8.0\ref\Service.dll

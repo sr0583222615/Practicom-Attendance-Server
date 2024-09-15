@@ -1,0 +1,150 @@
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.deps.json
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.dll
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.dll
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.pdb
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.AssemblyReference.cache
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfoInputs.cache
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfo.cs
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CoreCompileInputs.cache
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CopyComplete
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.dll
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\refint\DataRepository.dll
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.pdb
+C:\Users\325924835.MBYDOMAIN\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\ref\DataRepository.dll
+J:\handesaim37-2\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.deps.json
+J:\handesaim37-2\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.dll
+J:\handesaim37-2\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.pdb
+J:\handesaim37-2\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.dll
+J:\handesaim37-2\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.pdb
+J:\handesaim37-2\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.AssemblyReference.cache
+J:\handesaim37-2\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+J:\handesaim37-2\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfoInputs.cache
+J:\handesaim37-2\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfo.cs
+J:\handesaim37-2\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CoreCompileInputs.cache
+J:\handesaim37-2\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CopyComplete
+J:\handesaim37-2\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.dll
+J:\handesaim37-2\Practicom Attendance\DataRepository\obj\Debug\net8.0\refint\DataRepository.dll
+J:\handesaim37-2\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.pdb
+J:\handesaim37-2\Practicom Attendance\DataRepository\obj\Debug\net8.0\ref\DataRepository.dll
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.deps.json
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.dll
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.dll
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.pdb
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.AssemblyReference.cache
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfoInputs.cache
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfo.cs
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CoreCompileInputs.cache
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CopyComplete
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.dll
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\refint\DataRepository.dll
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.pdb
+C:\Users\214388480\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\ref\DataRepository.dll
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.deps.json
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.dll
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.dll
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.pdb
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.AssemblyReference.cache
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfoInputs.cache
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfo.cs
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CoreCompileInputs.cache
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CopyComplete
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.dll
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\refint\DataRepository.dll
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.pdb
+C:\Users\325924835\Desktop\Practicom Attendance\DataRepository\obj\Debug\net8.0\ref\DataRepository.dll
+M:\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.deps.json
+M:\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.dll
+M:\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.pdb
+M:\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.dll
+M:\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.pdb
+M:\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.AssemblyReference.cache
+M:\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+M:\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfoInputs.cache
+M:\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfo.cs
+M:\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CoreCompileInputs.cache
+M:\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.dll
+M:\Practicom Attendance\DataRepository\obj\Debug\net8.0\refint\DataRepository.dll
+M:\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.pdb
+M:\Practicom Attendance\DataRepository\obj\Debug\net8.0\ref\DataRepository.dll
+M:\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CopyComplete
+M:\כונן M סמינר\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.deps.json
+M:\כונן M סמינר\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.dll
+M:\כונן M סמינר\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.pdb
+M:\כונן M סמינר\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.dll
+M:\כונן M סמינר\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.pdb
+M:\כונן M סמינר\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.AssemblyReference.cache
+M:\כונן M סמינר\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+M:\כונן M סמינר\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfoInputs.cache
+M:\כונן M סמינר\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfo.cs
+M:\כונן M סמינר\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CoreCompileInputs.cache
+M:\כונן M סמינר\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepo.65F8710C.Up2Date
+M:\כונן M סמינר\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.dll
+M:\כונן M סמינר\Practicom Attendance\DataRepository\obj\Debug\net8.0\refint\DataRepository.dll
+M:\כונן M סמינר\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.pdb
+M:\כונן M סמינר\Practicom Attendance\DataRepository\obj\Debug\net8.0\ref\DataRepository.dll
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.deps.json
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.dll
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.dll
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.pdb
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.AssemblyReference.cache
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfoInputs.cache
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfo.cs
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CoreCompileInputs.cache
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepo.65F8710C.Up2Date
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.dll
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\obj\Debug\net8.0\refint\DataRepository.dll
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.pdb
+C:\Users\The user\Downloads\OneDrive_2024-08-11\Practicom Attendance\DataRepository\obj\Debug\net8.0\ref\DataRepository.dll
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.deps.json
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.dll
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.dll
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\bin\Debug\net8.0\Entities.pdb
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfo.cs
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepo.65F8710C.Up2Date
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.dll
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\obj\Debug\net8.0\refint\DataRepository.dll
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\obj\Debug\net8.0\DataRepository.pdb
+C:\Users\The user\Desktop\aaaaaaaaaaaaaaaaaaaaaaaaaaaaa\Practicom Attendance\DataRepository\obj\Debug\net8.0\ref\DataRepository.dll
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\bin\Debug\net8.0\DataRepository.deps.json
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\bin\Debug\net8.0\DataRepository.dll
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\bin\Debug\net8.0\Entities.dll
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\bin\Debug\net8.0\Entities.pdb
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfo.cs
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepo.65F8710C.Up2Date
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.dll
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\refint\DataRepository.dll
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.pdb
+C:\Users\The user\Desktop\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\ref\DataRepository.dll
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\bin\Debug\net8.0\DataRepository.deps.json
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\bin\Debug\net8.0\DataRepository.dll
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\bin\Debug\net8.0\DataRepository.pdb
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\bin\Debug\net8.0\Entities.dll
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\bin\Debug\net8.0\Entities.pdb
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfo.cs
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepo.65F8710C.Up2Date
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.dll
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\refint\DataRepository.dll
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\DataRepository.pdb
+C:\Users\The user\Desktop\פרוייקטים\batya\Practicom Attendance-server\DataRepository\obj\Debug\net8.0\ref\DataRepository.dll
